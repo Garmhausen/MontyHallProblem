@@ -82,6 +82,7 @@ function runSimulation(iterations) {
   console.log('Percentage won when always switching:', results.wonSwitchedPercentage);
   console.log('Percentage won when never switching:', results.wonStayedPercentage);
   console.log('Percentage won when randomly switching:', results.wonRandomPercentage);
+  // console.log('Full Results in detail', results);
 }
 
 // run this thing!
