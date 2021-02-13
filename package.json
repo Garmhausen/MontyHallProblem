@@ -1,0 +1,19 @@
+{
+  "name": "monty_hall_problem",
+  "version": "1.0.0",
+  "description": "A quick exercise to gather some statistical details for the Monty Hall Problem",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Garmhausen/MontyHallProblem.git"
+  },
+  "author": "Robert Garmhausen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Garmhausen/MontyHallProblem/issues"
+  },
+  "homepage": "https://github.com/Garmhausen/MontyHallProblem#readme"
+}
